@@ -18,3 +18,11 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 Analysis of Tableau Worksheet:
 
+I decided to use the CSV's covering June 2020 - November 2020 to compare seasonal data with a large enough dataset. I used Jupyter notebook to combine the CSV's (Notebook attached for reference)
+
+Once this was combined I then went to analyse the data in Tableau, creating calculated fields for the areas I wanted to analyse (Season, Age, Weekend/Weekday)
+
+Top Data Findings from the Tableau Notebook:
+
+1. The starting stations and area locations.
+
