@@ -26,3 +26,12 @@ Top Data Findings from the Tableau Notebook:
 
 1. The starting stations and area locations.
 
+https://github.com/SBrindley/citi-bike/blob/main/Citibike%20Story.png
+
+The Visualisation shows the starting station using colours and sizes of the markers to display the popularity (legend on top right).
+You can filter the data furhter using the dropdown for month and also sue the text box to type a station to see the location and usage data on the map.
+The top 10 starting locations are all based in the Manhattan Area, meaning this is the most popular area to start a bike journey. The bottom 10 starting stations are all based near the Bronx and out of the city. 
+
+
+2. Usage stats between Subscribers and Customers
+
