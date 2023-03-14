@@ -26,7 +26,7 @@ Top Data Findings from the Tableau Notebook:
 
 1. The starting stations and area locations.
 
-https://github.com/SBrindley/citi-bike/blob/main/Citibike%20Story.png
+https://github.com/SBrindley/citi-bike/blob/main/Citibike%20Story%20Gender.png?raw=true
 
 The Visualisation shows the starting station using colours and sizes of the markers to display the popularity (legend on top right).
 You can filter the data furhter using the dropdown for month and also sue the text box to type a station to see the location and usage data on the map.
